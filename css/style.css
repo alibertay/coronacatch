@@ -1,0 +1,11 @@
+#virus{
+  width: 85px;
+  height: 85px;
+  position: absolute;
+  border: none;
+}
+
+body {
+background-image: url("bg.jpg");
+background-size: cover;
+}
